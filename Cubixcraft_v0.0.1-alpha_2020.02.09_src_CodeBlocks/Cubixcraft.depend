@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1581254610 source:h:\projects\c\cubixcraft\src\font.cpp
+	"font.h"
+	"main.h"
+
+1581254610 h:\projects\c\cubixcraft\src\font.h
+	<iostream>
+	<cstring>
+	<stdarg.h>
+	<GL/gl.h>
+	"SOIL/SOIL.h"
+
+1581256387 h:\projects\c\cubixcraft\src\main.h
+	<windows.h>
+	<cmath>
+	<ctime>
+	<GL/gl.h>
+	<GL/glu.h>
+	"frustum.h"
+
+1580720688 source:h:\projects\c\cubixcraft\src\player.cpp
+	"player.h"
+	"main.h"
+
+1580738074 h:\projects\c\cubixcraft\src\player.h
+	"world.h"
+	<cmath>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1581255861 source:h:\projects\c\cubixcraft\src\main.cpp
+	"main.h"
+	"font.h"
+	"player.h"
+	"timers.h"
+	"world.h"
+	"worldrenderer.h"
+	"frustum.h"
+	"textures.h"
+	"objectselector.h"
+
+1576072604 source:h:\projects\c\cubixcraft\src\timer.cpp
+	"timer.h"
+
+1576072484 h:\projects\c\cubixcraft\src\timer.h
+	<ctime>
+
+1581256964 source:h:\projects\c\cubixcraft\src\timers.cpp
+	"timers.h"
+
+1581256964 h:\projects\c\cubixcraft\src\timers.h
+	<ctime>
+
+1581258603 source:h:\projects\c\cubixcraft\src\world.cpp
+	"world.h"
+	"main.h"
+	"font.h"
+	"frustum.h"
+	"textures.h"
+
+1581258603 h:\projects\c\cubixcraft\src\world.h
+	"block.h"
+	<malloc.h>
+	<vector>
+	<string>
+	<GL/gl.h>
+
+1581246922 source:h:\projects\c\cubixcraft\src\collisionbox.cpp
+	"collisionbox.h"
+
+1580732085 h:\projects\c\cubixcraft\src\collisionbox.h
+
+1580031803 source:h:\projects\c\cubixcraft\src\cube.cpp
+	"cube.h"
+	"main.h"
+
+1580031803 h:\projects\c\cubixcraft\src\cube.h
+	"collisionbox.h"
+	<GL/gl.h>
+
+1579938874 h:\projects\c\cubixcraft\src\frustum.h
+	<GL/gl.h>
+	<cmath>
+
+1581255861 source:h:\projects\c\cubixcraft\src\frustum.cpp
+	"frustum.h"
+
+1215443608 source:h:\projects\c\cubixcraft\src\soil\image_dxt.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215443608 h:\projects\c\cubixcraft\src\soil\image_dxt.h
+
+1215443608 source:h:\projects\c\cubixcraft\src\soil\image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215443608 h:\projects\c\cubixcraft\src\soil\image_helper.h
+
+1215443608 source:h:\projects\c\cubixcraft\src\soil\stb_image_aug.c
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215443608 h:\projects\c\cubixcraft\src\soil\stb_image_aug.h
+	<stdio.h>
+
+1215443608 h:\projects\c\cubixcraft\src\soil\stbi_dds_aug.h
+
+1215443608 h:\projects\c\cubixcraft\src\soil\stbi_dds_aug_c.h
+
+1575223802 source:h:\projects\c\cubixcraft\src\soil\test_soil.cpp
+	<string>
+	<iostream>
+	<ctime>
+	<windows.h>
+	<shellapi.h>
+	<gl/gl.h>
+	<gl/glext.h>
+	"SOIL.h"
+
+1215443608 h:\projects\c\cubixcraft\src\soil\soil.h
+
+1581256387 source:h:\projects\c\cubixcraft\src\textures.cpp
+	"textures.h"
+
+1581256964 h:\projects\c\cubixcraft\src\textures.h
+	<iostream>
+	<GL/gl.h>
+	<GL/glu.h>
+	"SOIL/soil.h"
+
+1215443608 source:h:\projects\c\cubixcraft\src\soil\soil.c
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+
+1580725177 source:h:\projects\c\cubixcraft\src\chunk.cpp
+	"chunk.h"
+
+1580722956 h:\projects\c\cubixcraft\src\chunk.h
+	"worldrenderer.h"
+	<GL/gl.h>
+
+1581257637 source:h:\projects\c\cubixcraft\src\worldrenderer.cpp
+	"worldrenderer.h"
+	"main.h"
+	"tesselator.h"
+	"textures.h"
+
+1581257637 h:\projects\c\cubixcraft\src\worldrenderer.h
+	"world.h"
+	"chunk.h"
+	"tesselator.h"
+	<vector>
+
+1580719176 source:h:\projects\c\cubixcraft\src\tesselator.cpp
+	"tesselator.h"
+
+1580719176 h:\projects\c\cubixcraft\src\tesselator.h
+	<GL/gl.h>
+
+1579335220 source:h:\projects\c\cubixcraft\src\objectselrctor.cpp
+	"objectselrctor.h"
+
+1579337604 h:\projects\c\cubixcraft\src\objectselrctor.h
+	"main.h"
+	"player.h"
+	"world.h"
+	"tesselator.h"
+	<GL/gl.h>
+
+1580738074 source:h:\projects\c\cubixcraft\src\objectselector.cpp
+	"objectselector.h"
+
+1580730974 h:\projects\c\cubixcraft\src\objectselector.h
+	"main.h"
+	"player.h"
+	"tesselator.h"
+	<GL/gl.h>
+	<GL/glu.h>
+
+1580721916 h:\projects\c\cubixcraft\src\block.h
+	"collisionbox.h"
+	"world.h"
+	<GL/gl.h>
+
+1580722956 source:h:\projects\c\cubixcraft\src\block.cpp
+	"block.h"
+
