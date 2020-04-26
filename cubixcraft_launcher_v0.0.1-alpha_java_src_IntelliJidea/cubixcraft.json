@@ -1,0 +1,157 @@
+{
+	"cubixcraft":
+	{
+		"versions":
+		[			
+			{
+				"display_title": "Version 0.0.1.1-alpha | Java",
+				"title": "0.0.1.1-alpha",
+				"root_dir": "files/cubixcraft/java/0.0.1.1-alpha",
+				"executable_jar": "cubixcraft.jar", 
+				"main_class": "game.cubixcraft.CubixCraft",
+				"files":
+				[
+					{
+						"relative_path":"/cubixcraft.jar",
+						"size": 47184
+					}
+				],
+				"dependency": "lwjgl-2.9.3"
+			}
+		],
+		"libraries":
+		{
+			"root_dir": "files/cubixcraft/java/libraries",
+			"list":
+			[
+				{
+					"title": "lwjgl-2.9.3",
+					"files":
+					{
+						"jars":
+						[
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/AppleJavaExtensions.jar",
+								"size": 4189
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/asm-debug-all.jar",
+								"size": 321450
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/jinput.jar",
+								"size": 214859
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/laf-plugin-7.2.1.jar",
+								"size": 16622
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/laf-widget-7.2.1.jar",
+								"size": 392564
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/log4j-api-2.0-beta9.jar",
+								"size": 108161
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/lwjgl-debug.jar",
+								"size": 1070183
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/lwjgl.jar",
+								"size": 1053471
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/lwjgl_test.jar",
+								"size": 321649
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/lwjgl_util.jar",
+								"size": 173911
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/lwjgl_util_applet.jar",
+								"size": 36009
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/lzma.jar",
+								"size": 5848
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/substance-7.2.1.jar",
+								"size": 1518423
+							},
+							{
+								"relative_path":"/lwjgl-2.9.3/jars/trident-7.2.1.jar",
+								"size": 109105
+							}
+						],
+						"natives-windows":
+						[
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-windows/jinput-dx8.dll",
+								"size": 61952
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-windows/jinput-dx8_64.dll",
+								"size": 65024
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-windows/jinput-raw.dll",
+								"size": 59392
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-windows/jinput-raw_64.dll",
+								"size": 62464
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-windows/lwjgl.dll",
+								"size": 306176
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-windows/lwjgl64.dll",
+								"size": 317440
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-windows/OpenAL32.dll",
+								"size": 390144
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-windows/OpenAL64.dll",
+								"size": 382464
+							}
+						],
+						"natives-linux":
+						[
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-linux/libjinput-linux.so",
+								"size": 13824
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-linux/libjinput-linux64.so",
+								"size": 14512
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-linux/liblwjgl.so",
+								"size": 395108
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-linux/liblwjgl64.so",
+								"size": 469936
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-linux/libopenal.so",
+								"size": 368392
+							},
+							{
+								"relative_path": "/lwjgl-2.9.3/natives-linux/libopenal64.so",
+								"size": 404085
+							}
+						]
+					}
+				}
+			]
+		}
+	}
+}
